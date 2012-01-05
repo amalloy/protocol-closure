@@ -19,12 +19,6 @@ the implementations added since then. See the [source](./src/protocol/core.clj) 
 where a desire to use closures and HOFs leads to unexpected behavior (the errors seen in the
 [tests](./test/protocol/core_test.clj)).
 
-## Usage
-
-FIXME
-
 ## License
 
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Do whatever you want. I place this code in the public domain.
